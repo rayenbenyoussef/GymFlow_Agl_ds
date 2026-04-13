@@ -67,12 +67,9 @@ GymFlow/
 ├── docs/
 │   ├── rapport.pdf
 │   └── captures/
-│
 ├── diagrammes/
-│
 ├── src/
 │   └── com/gymflow/models/
-│
 └── tests/
 
 ---
