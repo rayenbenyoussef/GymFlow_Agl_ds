@@ -62,6 +62,8 @@ Les salles de sport rencontrent plusieurs difficultés :
 ---
 
 ## 🧱 Structure du projet
+
+```text
 GymFlow/
 ├── README.md
 ├── docs/
@@ -71,7 +73,7 @@ GymFlow/
 ├── src/
 │   └── com/gymflow/models/
 └── tests/
-
+```
 ---
 
 ## 🛠️ Technologies utilisées
