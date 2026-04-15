@@ -88,7 +88,7 @@ GymFlow/
 
 | Nom | Rôle Scrum | Fonctionnalité |
 |-----|------------|----------------|
-| Ben youssef Rayen | Product Owner | Authentification |
+| Ben youssef Rayen | Product Owner | Admin Dashboard |
 | KAddour Fakhri | Scrum Master | Abonnements |
 | Fakhet Yassine | Développeur | Réservation |
 | Gnichi Mohamed Naceur | Développeur | Programme |
