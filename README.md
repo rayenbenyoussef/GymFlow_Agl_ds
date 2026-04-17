@@ -1,12 +1,7 @@
 # 🏋️‍♂️ GymFlow — Application intelligente de gestion de salle de sport
 
 ## 🎯 Pitch
-GymFlow est une application qui permet de digitaliser la gestion d’une salle de sport en combinant :
-- la gestion des abonnements  
-- la réservation des séances et machines  
-- le suivi personnalisé des adhérents  
-
-L’objectif est d’améliorer l’organisation de la salle et la motivation des utilisateurs.
+GymFlow est une solution intelligente de gestion de salles de sport qui automatise le suivi des abonnements et la réservation des équipements. Elle offre aux adhérents un accompagnement personnalisé et aux coachs un outil de suivi de performance pour maximiser la motivation et l'organisation de la salle.
 
 ---
 
